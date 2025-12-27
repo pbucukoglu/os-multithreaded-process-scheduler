@@ -123,14 +123,5 @@ Example:
 
 ---
 
-## Project Structure
-
-```text
-src/              # scheduler implementation
-inputs/           # example process definition files
-Makefile
-README.md
-```
-
 This project is designed as a compact, self-contained demonstration of
 multithreaded scheduling logic and OS-level concepts in C.
